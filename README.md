@@ -26,7 +26,7 @@ Data preview:
 ## Methods
 
 Tools:
-- NumPy, SciPy, Pandas, and Scikit-learn for data analysis and inference
+- NumPy, Pandas, and Scikit-learn for data analysis and inference
 - Streamlit (st) for web app design
 - GitHub for version control
 - Sublime as text editor
