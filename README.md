@@ -62,4 +62,4 @@ In the future I would like to add movieDB APIs to add more features to the proje
 
 [3] [Google Collab](lab.research.google.com/drive/1aDNapHbcVyGnXLpuQ6qyfXgQa9nd2r4x#scrollTo=JIVismfIUkX1)
 
-[4] [Colloborative Book Recommendations] (https://www.kaggle.com/sankha1998/collaborative-book-recommendation-system)
+[4] [Colloborative Book Recommendations](https://www.kaggle.com/sankha1998/collaborative-book-recommendation-system)
