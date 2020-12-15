@@ -18,6 +18,7 @@ The data for ratings.csv has 20,000,263 samples with 4 features: userId, movieId
 The objective is to recommend movies based upon a given movie.
 
 Data preview: 
+![data screenshot](./DataPreview.png)
 
 
 ## Methods
