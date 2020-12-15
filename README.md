@@ -20,6 +20,8 @@ The objective is to recommend movies based upon a given movie.
 Data preview: 
 ![data screenshot](./DataPreview.png)
 
+![Filtering](./Filtering.png)
+
 
 ## Methods
 
