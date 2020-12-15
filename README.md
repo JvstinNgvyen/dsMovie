@@ -11,7 +11,7 @@ I wanted to ease the web app development and [Streamlit](https://www.streamlit.i
 
 ## Selection of Data
 
-The model processing and training are conducted using a Jupyter Notebook and is available [here](https://github.com/memoatwit/dsexample/blob/master/Insurance%20-%20Model%20Training%20Notebook.ipynb).
+The model processing and training are conducted using a Jupyter Notebook and is available [here](https://github.com/nguyenj32/dsMovie/blob/main/MovieReccomendation.ipynb).
 
 The data for ratings.csv has 20,000,263 samples with 4 features: userId, movieId, rating, timestamp. Another dataset used in conjuction is movie.csv which has 27,278 samples with 3 features: movieId, title, and genre. However, I droped the data to clean it by removing entries that had less than 500 rating counts. I also removed the genre, timestamp and number of ratings to reduce the dataset. 
 
