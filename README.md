@@ -34,6 +34,10 @@ Inference methods used with Scikit:
 
 ## Results
 The app is not delployed yet, but it works on local machines. I will deploy it soon.
+Below is the web app working locally:
+Web App preview: 
+![Web App screenshot](./WebApp.png)
+
 
 
 ## Discussion
