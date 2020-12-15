@@ -31,8 +31,8 @@ Tools:
 - GitHub for version control
 - Sublime as text editor
 
-Inference methods used with Scikit:
-- Nearest neighbor model
+Inference methods used with Sklearn:
+- KNeighbor: Nearest Neighbor model
 
 Future API:
 - The movieDB API for poster url images
