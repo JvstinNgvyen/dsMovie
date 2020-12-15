@@ -32,18 +32,28 @@ Tools:
 Inference methods used with Scikit:
 - Nearest neighbor model
 
+Future API:
+- The movieDB API for poster url images
+
 ## Results
 The app is not delployed yet, but it works on local machines. I will deploy it soon.
+
 Below is the web app working locally:
 Web App preview: 
 ![Web App screenshot](./WebApp.png)
 
-
+I would like to add a poster image url through the movieDB API, but I have not got that to work yet.
+In the future I would like to list the movie recommendations and the best movie poster for each movie.
 
 ## Discussion
-
+This project was very interesting. I enjoyed working on the movielen dataset to recommend movies that others enjoyed along with the inputed movie. With the help of 
+[Kaggle Collobrative Book Recommendations](https://www.kaggle.com/sankha1998/collaborative-book-recommendation-system) I was able to understand how to run through the data. There are two ways to filter recommendations. One is to use collobrative filtering and the other is to use content based filtering. Collobrative filtering was easy to work with, but I would like to try content based filtering and then use a mix of both filtering methods. 
 
 ## Summary
+This project works locally after installing streamlit and running on your local environment. However, in the future I will deploy the application. By using the nearest neighborhood algorithm and pivoting the movie ratings for each movie I was able to use collaborative filtering to recommend the top movies within the dataset to the user.
+
+I was able to create a quick web application to use to see the recommendations instead of running the code through a notebook.
+In the future I would like to add movieDB APIs to add more features to the project such has linking the best movie poster to the recommended movie.
 
 ## References
 [1] [20m Movielens Dataset](https://www.kaggle.com/grouplens/movielens-20m-dataset)
@@ -51,3 +61,5 @@ Web App preview:
 [2] [Streamlit](https://www.streamlit.io/)
 
 [3] [Google Collab](lab.research.google.com/drive/1aDNapHbcVyGnXLpuQ6qyfXgQa9nd2r4x#scrollTo=JIVismfIUkX1)
+
+[4] [Colloborative Book Recommendations] (https://www.kaggle.com/sankha1998/collaborative-book-recommendation-system)
